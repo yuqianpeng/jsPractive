@@ -869,3 +869,4 @@ Promise.try(database.users.get({id: userId}))
 
 事实上，Promise.try就是模拟try代码块，就像promise.catch模拟的是catch代码块。
 新加一行
+哈哈哈
